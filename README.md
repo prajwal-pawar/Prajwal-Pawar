@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- referance : https://www.sitepoint.com/github-profile-readme/ -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" height="200px"/>
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400px" height="200px"/>
   
   <!--  Badges  -->
   <div id="badges">
