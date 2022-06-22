@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <!-- referance : https://www.sitepoint.com/github-profile-readme/ -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400px" height="200px"/>
+<!--   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400px" height="200px"/> -->
+  <img src="https://c4.wallpaperflare.com/wallpaper/772/1007/692/berserk-berserk-armor-guts-kentaro-miura-wallpaper-preview.jpg" width="300px" height="400px"/>
   
   <!--  Badges  -->
   <div id="badges">
@@ -33,8 +34,8 @@ Here are some ideas to get you started:
   
   <!--  Hey there  -->
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    hey there, i am Prajwal
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
 </div>
 
