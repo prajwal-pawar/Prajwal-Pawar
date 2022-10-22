@@ -4,6 +4,11 @@
 <h3>Prajwal Pawar.<br>| Mern Stack Developer | Linux Enthusiast | </h3> 
 <br>
 
+<div align="center">
+<img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height=200 width=200>
+</div>
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=Prajwal-Pawar&icon=2&color=9)](https://visitcount.itsvg.in)
 </div>
 
