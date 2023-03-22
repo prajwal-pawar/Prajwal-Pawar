@@ -19,3 +19,13 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+<div align="center">
+  <h3>About Me</h3>
+  I'm Prajwal Pawar <br>
+  MERN Stack developer and linux enthusiast from india <br>
+  I enjoy building full stack applications, frontend, backend, API's and games.  <br>
+  </ul>
+</div>
