@@ -1,34 +1,62 @@
-<div id="header" align="center">
-  <h1>Prajwal Pawar</h1>
-</div>
-
-<div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Prajwal-Pawar&style=flat-square&color=blue" alt=""/>
-</div>
- 
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-<div align="center">
-  <h3>About Me</h3>
-  I'm Prajwal Pawar <br>
-  MERN Stack developer and linux enthusiast from india <br>
-  I enjoy building full stack applications, frontend, backend, API's and games.  <br>
-  </ul>
-</div>
-
----
-
-<div align="center">
+<!-- Your name or username -->
+<h1 align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prajwal-Pawar&theme=dark&background=000000)](https://git.io/streak-stats)
+  👋 Hey there, I'm [Prajwal Pawar](https://yourwebsite.com)
+  
+</h1>
 
-</div>
+<p align="center">MERN Stack developer and linux enthusiast from india</p>
+<p align="center">I enjoy building full stack applications, frontend, backend, API's and games.</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
+</p>
+
+<!-- Your skills and technologies you're proficient in -->
+## 💼 Skills and Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman">
+  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens">
+  <img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io">
+</p>
+
+
+<!-- A list of your notable GitHub repositories -->
+## 🚀 Notable Repositories
+
+- [Project 1](https://github.com/yourusername/project1): A brief description of the project.
+- [Project 2](https://github.com/yourusername/project2): Another brief description of the project.
+- [Contribution 1](https://github.com/yourusername/contribution1): A notable open-source contribution.
+
+<!-- A cool visualization of your GitHub stats -->
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true">
+</p>
+
+<!-- A call-to-action section -->
+## 👯‍♂️ Let's Connect
+
+I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername), and let's create something amazing together!
+
 
