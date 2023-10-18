@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">MERN Stack developer and linux enthusiast from india</p>
-<p align="center">I enjoy building full stack applications, frontend, backend, API's and games.</p>
+<p align="center">I build frontend, backend, API's and games.</p>
 
 
 <p align="center">
@@ -33,10 +33,10 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens">
   <img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
 </p>
 
 
