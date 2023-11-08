@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
+  <a href="https://twitter.com/prajwalpawar_"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"></a>
+  <a href="mailto:prajwalpawar2303@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
 </p>
 
 <!-- Your skills and technologies you're proficient in -->
