@@ -5,8 +5,7 @@
   
 </h1>
 
-<p align="center">MERN Stack developer and linux enthusiast from india</p>
-<p align="center">I build frontend, backend, API's and games.</p>
+<p align="center">Hi, I'm Prajwal Pawar. A passionate Mern Stack developer based in India. With a strong foundation in both frontend with React and backend with Nodejs, I enjoy building fullstack applications/websites. When I'm not coding, you can find me exploring new technologies, or enjoying a good cup of coffee while diving into a coding challenge. Let's create something amazing together!</p>
 
 
 <p align="center">
