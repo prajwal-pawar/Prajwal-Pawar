@@ -43,8 +43,8 @@
 ## 🚀 Notable Repositories
 
 - [MyDrive](https://github.com/prajwal-pawar/MyDrive): A Google drive like file storing website in MERN Stack.
-- [MyBlog](https://github.com/prajwal-pawar/FileLink): A Blogging website in MERN Stack.
-- [FileLink](https://github.com/prajwal-pawar/): A file sharing with encryption website in nodejs/expressjs.
+- [MyBlog](https://github.com/prajwal-pawar/): A Blogging website in MERN Stack.
+- [FileLink](https://github.com/prajwal-pawar/FileLink): A file sharing with encryption website in nodejs/expressjs.
 - [Moviescape](https://github.com/prajwal-pawar/moviescape): A IMDB clone with OMDB API.
 - [Quicknote](https://github.com/prajwal-pawar/quicknote-tauri): A note taking app made with react and tauri(rust).
 
