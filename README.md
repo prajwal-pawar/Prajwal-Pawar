@@ -9,9 +9,9 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/prajwalpawar_"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"></a>
-  <a href="mailto:prajwalpawar2303@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/prajwalpawar_"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="mailto:prajwalpawar2303@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <!-- Your skills and technologies you're proficient in -->
@@ -42,16 +42,20 @@
 <!-- A list of your notable GitHub repositories -->
 ## 🚀 Notable Repositories
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of the project.
-- [Project 2](https://github.com/yourusername/project2): Another brief description of the project.
-- [Contribution 1](https://github.com/yourusername/contribution1): A notable open-source contribution.
+- [MyDrive](https://github.com/prajwal-pawar/MyDrive): A Google drive like file storing website in MERN Stack.
+- [MyBlog](https://github.com/prajwal-pawar/FileLink): A Blogging website in MERN Stack.
+- [FileLink](https://github.com/prajwal-pawar/): A file sharing with encryption website in nodejs/expressjs.
+- [Moviescape](https://github.com/prajwal-pawar/moviescape): A IMDB clone with OMDB API.
 
 <!-- A cool visualization of your GitHub stats -->
+
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-pawar&show_icons=true&hide_title=true&hide_border=true&count_private=true">
 </p>
+-->
 
 <!-- A call-to-action section -->
 ## 👯‍♂️ Let's Connect
