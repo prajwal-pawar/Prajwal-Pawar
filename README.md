@@ -61,6 +61,6 @@
 <!-- A call-to-action section -->
 ## 👯‍♂️ Let's Connect
 
-I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername), and let's create something amazing together!
+I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/prajwalpawar_), and let's create something amazing together!
 
 
