@@ -1,7 +1,7 @@
 <!-- Your name or username -->
 <h1 align="center">
   
-  👋 Hey there, I'm [Prajwal Pawar](https://yourwebsite.com)
+  👋 Hey there, I'm [Prajwal Pawar](https://prajwalpawar.vercel.app/)
   
 </h1>
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/prajwal-pawar-477a81226/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/prajwalpawar_"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:prajwalpawar2303@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
@@ -42,10 +42,10 @@
 <!-- A list of your notable GitHub repositories -->
 ## 🚀 Notable Repositories
 
-- [MyDrive](https://github.com/prajwal-pawar/MyDrive): A Google drive like file storing website in MERN Stack.
 - [MyBlog](https://github.com/prajwal-pawar/): A Blogging website in MERN Stack.
 - [FileLink](https://github.com/prajwal-pawar/FileLink): A file sharing with encryption website in nodejs/expressjs.
 - [Moviescape](https://github.com/prajwal-pawar/moviescape): A IMDB clone with OMDB API.
+- [MyDrive](https://github.com/prajwal-pawar/MyDrive): A Google drive like file storing website in MERN Stack.
 - [Quicknote](https://github.com/prajwal-pawar/quicknote-tauri): A note taking app made with react and tauri(rust).
 
 <!-- A cool visualization of your GitHub stats -->
@@ -61,6 +61,6 @@
 <!-- A call-to-action section -->
 ## 👯‍♂️ Let's Connect
 
-I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/prajwalpawar_), and let's create something amazing together!
+I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/prajwal-pawar-477a81226/) or [Twitter](https://twitter.com/prajwalpawar_), and let's create something amazing together!
 
 
