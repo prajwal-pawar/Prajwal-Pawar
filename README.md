@@ -42,7 +42,7 @@
 <!-- A list of your notable GitHub repositories -->
 ## 🚀 Notable Repositories
 
-- [MyBlog](https://github.com/prajwal-pawar/): MyBlog is a blogging web application built using the MERN stack.
+- [MyBlog](https://github.com/prajwal-pawar/MyBlog): MyBlog is a blogging web application built using the MERN stack.
 - [FileLink](https://github.com/prajwal-pawar/FileLink): FileLink is a secure encrypted file sharing website built in expressjs.
 - [MyDrive](https://github.com/prajwal-pawar/MyDrive): MyDrive is a file storage web application built using the MERN stack.
 - [Moviescape](https://github.com/prajwal-pawar/moviescape): Moviescape is a user-friendly IMDB clone developed using React and powered by the OMDB API.
